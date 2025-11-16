@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple HTML Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #af4c99;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+       
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Simple HTML Page</h1>
+        <h3><strong> I am Muhammad Muneeb Hiader Undergrade BS Software Engineering Student</strong></h3>
+        
+    </header>
+   <<p>
+<b><i>
+Hello! I am Muneeb Haider, a passionate learner and aspiring software engineer.
+I am currently exploring the world of web development, coding, and modern technology.
+I enjoy building projects, improving my skills in HTML, CSS, Java, and JavaScript,
+and sharing my learning journey with others.
+</i></b>
+<br><br>
+
+<a href="https://github.com/Muneeb111-Software" target="_blank">My GitHub Profile</a>
+</p>
+
+       <br>
+       <br>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFhllqCiCm8hwdqHaeWH6ivhRRz66y8YFNw&s"alt="tech"width="400"style="display:block; margin:0 auto;">>
+<p> Education is the most Powerful weapon which u can use to change the world</i></p></b>
+        <br>
+        <p><i>The universe is full of wonders we are only beginning to understand
+             From the swirling galaxies millions of light-years away to the tiny particles
+              that make up everything around us, the mysteries of space inspire curiosity and imagination
+               Each discovery opens new doors to knowledge, reminding us that there is always more to explore
+                and learn about the cosmos</i></p>
+                <br>
+<img src="https://i.pinimg.com/236x/b7/d6/f2/b7d6f246817e027944b1e10b1bfe1adf.jpg"  
+     alt="Beautiful Image"  
+     width="200"  
+     style="display:block; margin:0 auto;">
+  <br>
+ <p>The F-35 Lightning II is a modern stealth multirole fighter jet used by several 
+    countries around the world It is designed for air-to-air combat ground attacks 
+    and reconnaissance missions With advanced radar stealth technology and supersonic 
+    speed the F-35 is one of the most powerful and versatile aircraft in the world today</p>   
+  
+<a href="https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II" target="_blank">
+    <img src="https://www.19fortyfive.com/wp-content/uploads/2022/03/F-35.jpg" 
+         alt="F35 Jet" width="400" style="display:block; margin:0 auto;">
+</a>
+
+        <h2>About This Page</h2>
+        <p>This page is created to practice basic HTML elements including headers, paragraphs, images, and layout structure.</p>
+        <p>HTML provides the structure of the page, and CSS helps in styling the content for a better user experience.</p>
+    <br>
+      <a href="index2.html" target="_blank"><b>Move to Next Page</b> </a>
+    <footer>
+        <p>Here this offical  Young Dev Internship page </p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+    Learning coding and technology opens up a world of opportunities. It helps develop problem-solving skills
+     creativity, and logical thinking. By mastering programming languages and modern tech tools, one can build websites
+      apps and software and stay ahead in today,s digital world.</p>
+      <br>
+      <ol>
+        <h2 style="color: rgb(255, 0, 47);">Frontend RoadMap</h2>
+    <li>HTML Basics</li>
+    <li>CSS Styling</li>
+    <li>JavaScript Learning</li>
+</ol>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT09sf1HZJkLFcRdQH5Xq97eY4c0DvimDNqhYNQo4AuOKgyEsPmtVes1F05irbo2X9tjY&usqp=CAU"alt="tech"width=300>
+<ul>
+   <h2 style="color: blue;">Software Engineering Careers</h2>
+
+    <li>Coding Practice</li>
+    <li>Web Development</li>
+    <li>Problem Solving</li>
+</ul>
+<br>
+<table border="1">
+    <p style="color: rgb(255, 0, 17);"><b>Crash course Duration</b></p>
+    <tr>
+        <th style="color: blueviolet;">Course</th>
+        <th style="color: chartreuse;">Level</th>
+        <th style="color: darkmagenta;">Duration</th>
+    </tr>
+    <tr>
+        <td>HTML</td>
+        <td>Beginner</td>
+        <td>2 Weeks</td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td>Beginner</td>
+        <td>2 Weeks</td>
+    </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td>Intermediate</td>
+        <td>4 Weeks</td>
+    </tr>
+</table>
+
+</body>
+</html>
