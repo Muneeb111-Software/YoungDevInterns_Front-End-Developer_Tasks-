@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Responsive HTML Page</title>
+
+    <style>
+       
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+
+        header, footer {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .responsive-img {
+            display: block;
+            margin: 0 auto;
+            width: 400px;
+        }
+
+        .responsive-img-small {
+            display: block;
+            margin: 0 auto;
+            width: 200px;
+        }
+        @media only screen and (max-width: 600px) {
+
+            body {
+                font-size: 14px;
+            }
+
+            h1 {
+                font-size: 24px;
+                text-align: center;
+            }
+
+            h3 {
+                font-size: 16px;
+                text-align: center;
+            }
+            .responsive-img {
+                width: 90%;
+            }
+
+            .responsive-img-small {
+                width: 70%;
+            }
+
+            p {
+                text-align: justify;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>Welcome to My Simple HTML Page</h1>
+    <h3><strong>I am Muhammad Muneeb Haider, Undergraduate BS Software Engineering Student</strong></h3>
+</header>
+
+<p>
+<b><i>
+Hello! I am Muneeb Haider, a passionate learner and aspiring software engineer.
+I am currently exploring the world of web development, coding, and modern technology.
+I enjoy building projects, improving my skills in HTML, CSS, Java, and JavaScript,
+and sharing my learning journey with others.
+</i></b>
+<br><br>
+<a href="https://github.com/Muneeb111-Software" target="_blank">My GitHub Profile</a>
+</p>
+
+<br><br>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFhllqCiCm8hwdqHaeWH6ivhRRz66y8YFNw&s"
+     alt="tech"
+     class="responsive-img">
+
+<p><b><i>Education is the most powerful weapon which you can use to change the world.</i></b></p>
+
+<p><i>
+The universe is full of wonders we are only beginning to understand.
+From the swirling galaxies millions of light-years away to the tiny particles
+that make up everything around us, the mysteries of space inspire curiosity and imagination.
+Each discovery opens new doors to knowledge, reminding us that there is always more to
+explore and learn about the cosmos.
+</i></p>
+
+<img src="https://i.pinimg.com/236x/b7/d6/f2/b7d6f246817e027944b1e10b1bfe1adf.jpg"
+     alt="Beautiful Image"
+     class="responsive-img-small">
+
+<br>
+
+<p>
+The F-35 Lightning II is a modern stealth multirole fighter jet used by several 
+countries worldwide. It is designed for air-to-air combat, ground attacks, 
+and reconnaissance missions. With advanced radar, stealth technology, and 
+supersonic speed, the F-35 is one of the most powerful and versatile aircraft today.
+</p>
+
+<a href="https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II" target="_blank">
+    <img src="https://www.19fortyfive.com/wp-content/uploads/2022/03/F-35.jpg"
+         alt="F35 Jet"
+         class="responsive-img">
+</a>
+
+<h2>About This Page</h2>
+<p>This page is created to practice basic HTML elements including headers, paragraphs, images, and layout structure.</p>
+<p>HTML provides the structure of the page, and CSS helps in styling the content for a better user experience.</p>
+
+<br>
+
+<a href="index2.html" target="_blank"><b>Move to Next Page</b></a>
+
+<footer>
+    <p>This is the official Young Dev Internship page.</p>
+</footer>
+
+</body>
+</html>
